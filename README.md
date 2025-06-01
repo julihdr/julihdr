@@ -1,5 +1,23 @@
-# 💫 About Me:
-👨‍🎓 20 Jahre alt, Student aus Linz, AT – und wenn ich nicht gerade Code schreibe, baue ich Welten. Ich liebe es, Games zu erschaffen, die Erwartungen brechen und Spieler herausfordern. Von innovativen Steuerungsmechaniken bis zu tiefgehenden Storys – ich will Grenzen sprengen.<br><br>🔹 Game Dev & Web – Unity, Unreal, alles dazwischen.<br>🔹 Meine Games (alle mit einem Twist):<br><br>🧩 Gitrooms – Puzzle Escape Room Game über Git<br><br>👽 Alien Peekaboo – Ein FPS mit Eye-Tracking gegen Aliens<br><br>🎤 Moovement – Ein Rennspiel, bei dem du mit deiner Stimme Hindernissen ausweichst<br><br>⏳ Noxon – Ein Story-Game inspiriert von Tenet, mit Zeitinversion<br><br>Wenn du Games liebst, die sich anders anfühlen – let’s connect! 🚀
+## 💫 About Me
+
+👨‍🎓 20 Jahre alt, Medientechnik- und Design-Student an der FH Hagenberg, aktuell in Linz.
+
+Ich entwickle interaktive digitale Produkte – von Spielen bis zu Webanwendungen mit klarem UX-Fokus. Mein Schwerpunkt liegt auf Game Development und moderner Webtechnologie. Dabei reizt mich alles, was Konventionen bricht: ungewöhnliche Mechaniken, narrative Tiefe und technische Experimente.
+
+**Skills & Tools:**  
+Unity, Unreal Engine, JavaScript, C#, C++, Python, Java, Git, Figma, Photoshop
+
+**Eigene Games:**
+
+- 🧩 **Gitrooms** – Puzzle Escape Room Game über Git-Konzepte  
+- 👽 **Alien Peekaboo** – FPS mit Eye-Tracking gegen Aliens  
+- 🎤 **Moovement** – Rennspiel, bei dem man mit der Stimme Hindernissen ausweicht  
+- ⏳ **Noxon** – Story-Game mit Zeitinversion, inspiriert von *Tenet*
+
+**Standort:** Linz, Österreich  
+**Hobbys:** Wandern, Laufen, Fitness
+
+Wenn du Games oder Prototypen suchst, die nicht nach Schema F laufen – schreib mir. 🚀
 
 
 ## 🌐 Socials:
