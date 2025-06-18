@@ -7,13 +7,6 @@ Ich entwickle interaktive digitale Produkte – von Spielen bis zu Webanwendunge
 **Skills & Tools:**  
 Unity, Unreal Engine, JavaScript, C#, C++, Python, Java, Git, Figma, Photoshop
 
-**Eigene Games:**
-
-- 🧩 **Gitrooms** – Puzzle Escape Room Game über Git-Konzepte  
-- 👽 **Alien Peekaboo** – FPS mit Eye-Tracking gegen Aliens  
-- 🎤 **Moovement** – Rennspiel, bei dem man mit der Stimme Hindernissen ausweicht  
-- ⏳ **Noxon** – Story-Game mit Zeitinversion, inspiriert von *Tenet*
-
 **Standort:** Linz, Österreich  
 **Hobbys:** Wandern, Laufen, Fitness
 
